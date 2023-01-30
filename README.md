@@ -7,7 +7,7 @@ Main target was to learn about algorithms used in computer science with special 
 Ideas for projects are taken from book 'Bioinformatics Algorithms: Design and Implementation in Python' by Miguel Rocha & Pedro G. Ferreira.
 
   ### Project 1
-  Writing a set of functions working over matrices (represented as a list of lists)
+  Writing a set of functions working over matrices represented as a list of lists
 
   ### Project 2
   Writing a function that using regular expressions parses a string and returns a dictionary with the different fields
