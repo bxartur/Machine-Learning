@@ -2,7 +2,6 @@
 A part of projects made during my studies to practise programming in Python
 
 
-
 ## Bioinformatics Algorithms
 Main target - learning about algorithms used in computer science with special focus on bioinformatic ones.
 Ideas for projects are taken from book 'Bioinformatics Algorithms: Design and Implementation in Python' by Miguel Rocha & Pedro G. Ferreira.
@@ -15,7 +14,6 @@ Ideas for projects are taken from book 'Bioinformatics Algorithms: Design and Im
 
   ### Project 3
   Considering the functions to calculate pairwise global alignments
-
 
 
 ## Machine Learning
