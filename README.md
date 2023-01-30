@@ -17,8 +17,8 @@ Ideas for projects are taken from book 'Bioinformatics Algorithms: Design and Im
 
 
 ## Machine Learning
-Learning about machine learning and using it in practise.
-Database about red wines from Spain used in following projects is donwloaded from 'kaggle.com'.
+Learning about ML and using it in practise.
+Database about red wines from Spain used in following projects is downloaded from 'kaggle.com'.
 
 ### Project 1
 Making analysis of data, preparing data and testing regression algorithms to predict data in column 'price'
