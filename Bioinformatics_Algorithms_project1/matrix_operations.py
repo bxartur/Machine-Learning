@@ -2,7 +2,8 @@
 Bioinformatics Algorithms - Project I
 
 Tresc polecenia:
-2. Write a module in Python including a set of functions working over matrices. The matrix
+chapter 2, ex2. 
+Write a module in Python including a set of functions working over matrices. The matrix
 (represented as a list of lists) will be passed as the first argument. Some functions to
 include may be the following:
     a. calculate the sum of the values in the matrix;
