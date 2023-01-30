@@ -10,7 +10,7 @@ Ideas for projects are taken from book 'Bioinformatics Algorithms: Design and Im
   Writing a set of functions working over matrices represented as a list of lists
 
   ### Project 2
-  Writing a function that using regular expressions parses a string and returns a dictionary with the different fields
+  Writing a function that using regular expressions parses a string and returns a dictionary with different fields
 
   ### Project 3
   Considering the functions to calculate pairwise global alignments
